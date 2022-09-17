@@ -43,7 +43,7 @@ hr{
 .top-container{
     background-color: #E4F9F5;
     position:relative;
-
+margin:0 auto;
 }
 .top-cloud{
     position:absolute;
